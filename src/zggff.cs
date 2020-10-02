@@ -6,17 +6,8 @@ namespace program
     {
         public static void Main(string[] args)
         {  
-           IsPossible(sudoku)
-           int value;
-           cell
-
-        //    
-
+            int 
         } 
-
-        static void IsPossible(string sudoku){
-        
-        }
     }
     
 } 
